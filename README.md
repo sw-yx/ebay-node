@@ -9,3 +9,5 @@ I'll clean this up later, but for now the only prerequisites are:
 'request-promise' package --> `npm request-promise`
 
 and your own eBay developer ID, which you can sign up for at: [https://developer.ebay.com]
+
+Eventually I will implement a front end for this using express or maybe even React
