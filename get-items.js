@@ -1,7 +1,7 @@
 var request = require('request-promise');
 
 // eBay Developer ID
-const EBAY_APP_ID = 'AbramFla-0959-4008-950d-e8abb475a969';
+const EBAY_APP_ID = 'Your EBAY APP ID'; // <- replace with your own developer ID
 
 // eBay base API request URL
 const baseApiUrl = "http://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems" +
