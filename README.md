@@ -6,6 +6,8 @@ Not to sell myself short, but a lot of this is aggregated functions, mainly asyn
 
 I'll clean this up later, but for now the only prerequisites are:
 
+Node 8 for async/await usage
+
 'request-promise' package --> `npm request-promise`
 
 and your own eBay developer ID, which you can sign up for at: [https://developer.ebay.com]
